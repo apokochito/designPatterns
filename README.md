@@ -1,24 +1,33 @@
 # designPatterns
+
 A repository with different design of patterns on Java
 
-### Singleton
+1. Singleton
+  
+  Advantage
+  
+  - Saves memory because object is not created at each request. Only single instance is reused again and again.
+  
+  Usage
+  
+  - Singleton pattern is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings etc.
 
-### Factory
+2. Factory
 
-### Strategy
+3. Strategy
 
-### Adapter
+4. Adapter
 
-### Proxy
+5. Proxy
 
-### Initialization on demand holder
+6. Initialization on demand holder
 
-### Builder
+7. Builder
 
-### Template
+8. Template
 
-### Chain of responability
+9. Chain of responability
 
-### State
+10. State
 
-### Observer
+11. Observer
