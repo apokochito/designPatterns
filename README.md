@@ -2,15 +2,15 @@
 
 A repository with different design of patterns on Java
 
-1. Singleton
+1. Singleton (**singleton branch**)
   
-  Advantage
+    Advantage
   
-  - Saves memory because object is not created at each request. Only single instance is reused again and again.
+    - Saves memory because object is not created at each request. Only single instance is reused again and again.
   
-  Usage
+    Usage
   
-  - Singleton pattern is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings etc.
+    - Singleton pattern is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings etc.
 
 2. Factory
 
