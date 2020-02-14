@@ -3,6 +3,15 @@
 A repository with different design of patterns on Java
 
 1. Singleton (**singleton branch**)
+
+    Description
+    
+    - This is useful when exactly one object is needed to coordinate actions across the system. The term comes from the mathematical concept of a singleton. Others design patterns can use it like abstract factory, builder and prototype.
+    
+    Implementation
+    
+    - Ensure only one instance of the singleton class ever exists.
+    - Provide global access to that instance.
   
     Advantage
   
