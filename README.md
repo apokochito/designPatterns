@@ -20,6 +20,10 @@ A repository with different design of patterns on Java
     Usage
   
     - Singleton pattern is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings etc.
+    
+    Code
+    
+    In **eager** initialization, the instance of Singleton Class is created at the time of class loading, but it has a drawback that instance is created even though client application might not be using it.
 
 2. Factory
 
