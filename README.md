@@ -27,6 +27,10 @@ A repository with different design of patterns on Java
 
 2. Factory
 
+    Description
+
+    - In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
+
 3. Strategy
 
 4. Adapter
