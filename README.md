@@ -2,7 +2,7 @@
 
 A repository with different design of patterns on Java
 
-1. Singleton (**singleton branch**)
+1. Singleton (**master branch**)
 
     Description
     
